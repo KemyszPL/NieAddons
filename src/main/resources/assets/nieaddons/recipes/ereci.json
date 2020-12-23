@@ -1,0 +1,30 @@
+{
+  "group": "nieaddons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "nieaddons:linebottom"
+    },
+    "3": {
+      "item": "nieaddons:leftbracket"
+    },
+    "4": {
+      "item": "nieaddons:line"
+    },
+    "5": {
+      "item": "nieaddons:combiner"
+    },
+    "7": {
+      "item": "nieaddons:linetop"
+    }
+  },
+  "result": {
+    "item": "nieaddons:e",
+    "count": 1
+  }
+}

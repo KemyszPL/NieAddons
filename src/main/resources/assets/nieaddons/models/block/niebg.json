@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nieaddons:blocks/niebg",
+    "particle": "nieaddons:blocks/niebg"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:N"
+      },
+      {
+        "value": "CUSTOM:I"
+      },
+      {
+        "value": "CUSTOM:E"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Combiner"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Nie"
+    },
+    "name": "nierecipe",
+    "namespace": "mod"
+  }
+}

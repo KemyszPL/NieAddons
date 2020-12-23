@@ -1,0 +1,15 @@
+item.linetop.name=Line Top
+item.n.name=Letter N
+item.nie.name=Nie
+item.e.name=Letter E
+item.linebottom.name=Line Bottom
+item.linettb.name=Line Top-to-bottom
+tile.nieblock.name=Block of Nie (Emits light)
+item.i.name=Letter I
+item.rightbracket.name=Right Line
+tile.nieblocknl.name=Block of Nie
+item.combiner.name=Combiner
+item.line.name=Horizontal Line
+item.bracket.name=Vertical Line
+item.leftbracket.name=Left Line
+tile.niebg.name=Background

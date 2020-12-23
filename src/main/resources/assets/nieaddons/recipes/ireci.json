@@ -1,0 +1,25 @@
+{
+  "group": "nieaddons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "1": {
+      "item": "nieaddons:combiner"
+    },
+    "2": {
+      "item": "nieaddons:bracket"
+    }
+  },
+  "result": {
+    "item": "nieaddons:i",
+    "count": 1
+  }
+}

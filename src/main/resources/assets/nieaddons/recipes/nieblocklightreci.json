@@ -1,0 +1,19 @@
+{
+  "group": "nieaddons",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nieaddons:nieblocknl"
+    },
+    {
+      "item": "nieaddons:combiner"
+    },
+    {
+      "item": "minecraft:torch"
+    }
+  ],
+  "result": {
+    "item": "nieaddons:nieblock",
+    "count": 1
+  }
+}

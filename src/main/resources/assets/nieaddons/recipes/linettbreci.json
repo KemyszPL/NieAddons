@@ -1,0 +1,27 @@
+{
+  "group": "nieaddons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "8": {
+      "item": "minecraft:wool",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "nieaddons:linettb",
+    "count": 1
+  }
+}

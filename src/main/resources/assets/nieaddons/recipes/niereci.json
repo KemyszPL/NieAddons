@@ -1,0 +1,26 @@
+{
+  "group": "nieaddons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "nieaddons:n"
+    },
+    "1": {
+      "item": "nieaddons:i"
+    },
+    "2": {
+      "item": "nieaddons:e"
+    },
+    "4": {
+      "item": "nieaddons:combiner"
+    }
+  },
+  "result": {
+    "item": "nieaddons:nie",
+    "count": 1
+  }
+}
