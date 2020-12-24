@@ -1,11 +1,4 @@
 # NieAddons
 Minecraft mod I made as a joke.
 
-*you'll have to wait for images until I get on the computer, because the fan in the laptop I was using to make this broke*
-*meanwhile, you can use the Just Enough Items mod to see them in-game*
-
-To create a nie block, you'll need quite a bit of wool.
-
-Start off by creating the combiner.
-
-===to be finished===
+***For some reason, the item textures in the inventory don't show up correctly when playing on an Nvidia GPU, it worked fine when testing on Intel HD Graphics 3000. Due to other issues the crafting guide is currently unavailable. Use Just Enough Items to see them in-game. Please let me know if you experience this bug too.***
