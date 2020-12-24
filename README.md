@@ -1,6 +1,6 @@
 # NieAddons
-Minecraft mod I made as a joke.
-
+Minecraft mod I made as a joke.<br>
+The images at the bottom are broken. Ignore it. This stupid guide already caused me much unfortune. <br>
 To create a nie block, you'll need quite a bit of wool. <br>
 Start off by making the combiner, you'll need it to craft other things later. It can be crafted from any color of wool. <br>
 ![Combiner Recipe](https://cdn.discordapp.com/attachments/622074654642667539/791631206973833216/unknown.png) <br><br>
