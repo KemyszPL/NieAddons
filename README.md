@@ -12,7 +12,7 @@ To make the letters, you need: <br></p>
 <li>1 right line <br>
 <img src="https://cdn.discordapp.com/attachments/622074654642667539/791633151432720414/unknown.png" alt="Right Line Recipe"> <br></li>
 <li>1 line top-to-bottom <br>
-<a href="https://cdn.discordapp.com/attachments/622074654642667539/791633536783482940/unknown.png">Line TTB Recipe</a> <br></li>
+<img src="https://cdn.discordapp.com/attachments/622074654642667539/791633536783482940/unknown.png" alt="LineTTB Recipe"> <br></li>
 <li>1 vertical line <br>
 <img src="https://cdn.discordapp.com/attachments/622074654642667539/791633733140480020/unknown.png" alt="Vertical Line Recipe"> <br></li>
 <li>1 line bottom <br>
