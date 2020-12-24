@@ -22,6 +22,7 @@ To make the letters, you need: <br></p>
 <li>1 line top <br>
 <img src="https://cdn.discordapp.com/attachments/622074654642667539/791634546499125268/unknown.png" alt="LTRe"> <br></li>
 <li>1 block of wool <br>
+</ul>
 <br>
 The next step is to craft the letters like so <br>
 <img src="https://cdn.discordapp.com/attachments/622074654642667539/791634930232590346/unknown.png" alt="NRecipe"> <br>
@@ -33,4 +34,4 @@ Now you can obtain the nie block by combining the background and the nie. <br>
 <img src="https://cdn.discordapp.com/attachments/622074654642667539/791636228776394753/unknown.png" alt="blockrecipe"> <br><br>
 If you wish to make your nie block glow like the background, add a torch. <br>
 <img src="https://cdn.discordapp.com/attachments/622074654642667539/791636445327785994/unknown.png" alt="lightrecipe"></li>
-</ul>
+
